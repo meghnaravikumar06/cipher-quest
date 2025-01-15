@@ -15,8 +15,10 @@
 4. Share your score and challenge your friends to beat it.
 
 ## Getting Started:
-1. **Clone the repository:** 
-2. **Run the game:**
+1. **Clone the repository:**
+   git clone
+   https://github.com/meghnaravikumar06/cipher-quest.git
+3. **Run the game:**
 - For Python: `python cipher_quest.py`
 - For JavaScript: Open `index.html` in a browser.
 
