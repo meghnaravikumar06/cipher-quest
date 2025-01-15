@@ -16,8 +16,8 @@
 
 ## Getting Started:
 1. **Clone the repository:**
-   git clone
-   https://github.com/meghnaravikumar06/cipher-quest.git
+   `git clone`
+   `https://github.com/meghnaravikumar06/cipher-quest.git`
 3. **Run the game:**
 - For Python: `python cipher_quest.py`
 - For JavaScript: Open `index.html` in a browser.
